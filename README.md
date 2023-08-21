@@ -44,13 +44,17 @@
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">🚀 Where You Can Find Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fenil1212" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a> 
+  </a>
+  <a href="https://gitlab.com/users/fenil12/projects" target="_blank">
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=fenil12&theme=radical" alt="fenil12's streak" />
