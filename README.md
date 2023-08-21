@@ -5,20 +5,15 @@
 <p>I'm a Data Engineer from <b>Mumbai, India</b>, currently living in <b>Glasgow, UK</b>.</p>
 <h3>I love coding in...but not limited to...</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=black" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-43853d?style=for-the-badge&logo=amazonaws&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=v" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=black" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=black" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=black" /> 
-  <img alt="AndroidStudio" src="https://img.shields.io/badge/Android Studio-45645?style=for-the-badge&logo=android&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=sql&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=black" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=black" />
+  <img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=black" />
+  <img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B3EF?style=for-the-badge&logo=snowflake&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black" />
+  <img alt="Teradata" src="https://img.shields.io/badge/-Teradata-F58021?style=for-the-badge&logo=teradata&logoColor=black" />
 </p>
 
 ### Education
