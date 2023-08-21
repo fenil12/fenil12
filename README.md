@@ -25,7 +25,7 @@
 
 - 2022, Data Engineer @ OrangeMantra.
 - 2021 - 2022, Associate @ Cognizant.
-- 2018 - 2021 , Senior Software Engineer @ Capgemini.
+- 2018 - 2021, Senior Software Engineer @ Capgemini.
 
 <h3>Where to find me ?</h3>
 <p>
