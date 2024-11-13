@@ -16,8 +16,8 @@
   <code><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black" /></code>
   <code><img alt="Teradata" src="https://img.shields.io/badge/-Teradata-F58021?style=flat-square&logo=teradata&logoColor=black" /></code>
   <code><img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
-  <code><img alt="Redshift" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
-  <code><img alt="Glue" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
+  <code><img alt="AWS Glue" src="https://img.shields.io/badge/-AWS_Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
+  <code><img alt="AWS Redshift" src="https://img.shields.io/badge/-AWS_Redshift-DC382D?style=flat-square&logo=amazon-redshift&logoColor=white" /></code>
 </p>
 
 ---
