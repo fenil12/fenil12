@@ -14,6 +14,7 @@
   <code><img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=black" /></code>
   <code><img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B3EF?style=flat-square&logo=snowflake&logoColor=black" /></code>
   <code><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black" /></code>
+  <code><img alt="Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=black" /></code>
   <code><img alt="Teradata" src="https://img.shields.io/badge/-Teradata-F58021?style=flat-square&logo=teradata&logoColor=black" /></code>
   <code><img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
   <code><img alt="AWS Glue" src="https://img.shields.io/badge/-AWS_Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
