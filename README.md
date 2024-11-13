@@ -1,20 +1,75 @@
-<h1 align="center">👋 Hello there! I'm Fenil Patel</h1> <p align="center">🌐 Data Engineer | 🌍 From Mumbai, India 🇮🇳 | 🏡 Living in Coventry, UK 🇬🇧</p>
-<h2 align="center">🛠 Tech Stack & Skills</h2> <p align="center"> <code><img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sql&logoColor=black" /></code> <code><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black" /></code> <code><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></code> <code><img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code> <code><img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=black" /></code> <code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=black" /></code> <code><img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B3EF?style=flat-square&logo=snowflake&logoColor=black" /></code> <code><img alt="Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=black" /></code> <code><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=black" /></code> <code><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black" /></code> </p>
-<h2 align="center">🎓 Education</h2> <p align="center"> <strong>University of Strathclyde, Glasgow</strong> <br> 📖 2023 - 2024 | Master of Science in Advanced Computer Science (Distinction) </p> <p align="center"> <strong>Fr. Conceicao Rodrigues College of Engineering - Mumbai University</strong> <br> 🎓 2014 - 2018 | Bachelor of Engineering in Computer Engineering (CGPA: 7.75/10) </p>
-<h2 align="center">💼 Experience</h2>
-Coventry Building Society, UK - Data Engineer
-<p align="center">📅 May 2024 - Present</p> <p align="center"> <i>Tools & Technologies:</i> AWS Glue, Redshift, Step Function, Oracle, Git, Python, SQL </p> <ul> <li>Designed and implemented data pipelines for seamless data processing from multiple sources.</li> <li>Redesigned SSIS packages into scalable AWS Glue jobs, improving data efficiency and scalability.</li> <li>Led a migration from AWS RDS to Redshift, achieving a 94% cost reduction.</li> </ul>
-OrangeMantra, India - Data Engineer
-<p align="center">📅 September 2022 - December 2022</p> <p align="center"> <i>Tools & Technologies:</i> Google BigQuery, Elasticsearch, Python, SQL </p> <ul> <li>Optimized BigQuery SQL queries to capture KPIs, improving query efficiency by 30%.</li> <li>Managed code and version control with GitHub for team collaboration.</li> </ul>
-Cognizant, India - Associate
-<p align="center">📅 December 2021 - June 2022</p> <p align="center"> <i>Tools & Technologies:</i> Snowflake, Vertica, Git, JS7 Scheduler, SQL </p> <ul> <li>Optimized SQL scripts, reducing response times by 40% and automating execution to save manual effort.</li> </ul>
-Capgemini, India - Senior Software Engineer
-<p align="center">📅 September 2018 - December 2021</p> <p align="center"> <i>Tools & Technologies:</i> Snowflake, Teradata, DB2, GCP, DBT, Airflow, SQL </p> <ul> <li>Led ELT pipeline development, processing over 100 GB of data daily with 99.9% accuracy.</li> <li>Orchestrated CI/CD pipelines in GitLab, reducing deployment times by 40%.</li> </ul>
-<h2 align="center">🏆 Certifications</h2> <ul align="center"> <li>Oracle Database SQL Certified Associate (OCA 1Z0-071)</li> <li>Google Cloud Certified Professional Data Engineer</li> </ul>
-<h2 align="center">📊 Projects</h2>
-Automatic Relational to NoSQL Schema Mapping
-<p align="center"> <i>Tools & Technologies:</i> Snowflake, MongoDB, Python </p> <ul> <li>Engineered automated schema mapping to transform complex relational structures into efficient NoSQL schemas.</li> <li>Orchestrated data migration and demonstrated scalability and precision of schema mapping.</li> </ul>
-Multi-Paradigm Data Modeling
-<p align="center"> <i>Tools & Technologies:</i> RDBMS, XML, OWL </p> <ul> <li>Developed models leveraging structured (RDBMS), semi-structured (XML), and ontology-based (OWL) data formats for optimized storage and retrieval.</li> </ul>
-<h2 align="center">🚀 Where You Can Find Me</h2> <p align="center"> <a href="https://www.linkedin.com/in/fenil1212" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/fenil12" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /> </a> <a href="https://gitlab.com/users/fenil12/projects" target="_blank"> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white" /> </a> </p>
-<h2 align="center">📈 GitHub Stats</h2> <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=fenil12&theme=radical" alt="fenil12's streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fenil12&count_private=true&show_icons=true&theme=radical&hide=stars" alt="fenil12's github stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil12&layout=compact&theme=radical" alt="fenil12's top languages" /> </p>
+<h1 align="center">👋 Hello there! I'm Fenil Patel</h1>
+<p align="center">🌐 Data Engineer | 🌍 From Mumbai, India 🇮🇳 | 🏡 Living in Coventry, UK 🇬🇧</p>
+
+---
+
+<h3 align="center">🛠 Tech Stack</h3>
+
+<p align="center">
+  <code><img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sql&logoColor=black" /></code>
+  <code><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black" /></code>
+  <code><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></code>
+  <code><img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=black" /></code>
+  <code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=black" /></code>
+  <code><img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=black" /></code>
+  <code><img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B3EF?style=flat-square&logo=snowflake&logoColor=black" /></code>
+  <code><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black" /></code>
+  <code><img alt="Teradata" src="https://img.shields.io/badge/-Teradata-F58021?style=flat-square&logo=teradata&logoColor=black" /></code>
+  <code><img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
+  <code><img alt="Redshift" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
+  <code><img alt="Glue" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black" /></code>
+</p>
+
+---
+
+<h3 align="center">🎓 Education</h3>
+
+<p align="center">
+  📖 2023 - 2024 | Masters in Advanced Computer Science <br> @ <i>Strathclyde University, Glasgow</i>
+</p>
+<p align="center">
+  🎓 2014 - 2018 | Bachelors in Computer Engineering <br> @ <i>Mumbai University</i>
+</p>
+
+---
+
+<h3 align="center">💼 Experience</h3>
+
+<p align="center">
+  📖 2024 - Present | Data Engineer @ <i>Coventry Building Society</i>
+</p>
+<p align="center">
+  🛠 2022 | Data Engineer @ <i>OrangeMantra</i>
+</p>
+<p align="center">
+  👨‍💻 2021 - 2022 | Associate @ <i>Cognizant</i>
+</p>
+<p align="center">
+  🚀 2018 - 2021 | Senior Software Engineer @ <i>Capgemini</i>
+</p>
+
+---
+
+<h3 align="center">🚀 Where You Can Find Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fenil1212" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/users/fenil12/projects" target="_blank">
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fenil12&theme=radical" alt="fenil12's streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fenil12&count_private=true&show_icons=true&theme=radical&hide=stars" alt="fenil12's github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil12&layout=compact&theme=radical" alt="fenil12's top languages" />
+</p>
