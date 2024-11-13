@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there! I'm Fenil Patel</h1>
-<p align="center">🌐 Data Engineer | 🌍 From Mumbai, India 🇮🇳 | 🏡 Living in Glasgow, UK 🇬🇧</p>
+<p align="center">🌐 Data Engineer | 🌍 From Mumbai, India 🇮🇳 | 🏡 Living in Coventry, UK 🇬🇧</p>
 
 ---
 
@@ -22,7 +22,7 @@
 <h3 align="center">🎓 Education</h3>
 
 <p align="center">
-  📖 2023 - Present | Masters in Advanced Computer Science <br> @ <i>Strathclyde University, Glasgow</i>
+  📖 2023 - 2024 | Masters in Advanced Computer Science <br> @ <i>Strathclyde University, Glasgow</i>
 </p>
 <p align="center">
   🎓 2014 - 2018 | Bachelors in Computer Engineering <br> @ <i>Mumbai University</i>
@@ -32,6 +32,9 @@
 
 <h3 align="center">💼 Experience</h3>
 
+<p align="center">
+  🛠 2022 | Data Engineer @ <i>Coventry Building Society</i>
+</p>
 <p align="center">
   🛠 2022 | Data Engineer @ <i>OrangeMantra</i>
 </p>
