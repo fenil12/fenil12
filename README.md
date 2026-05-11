@@ -37,7 +37,10 @@
 <h3 align="center">💼 Experience</h3>
 
 <p align="center">
-  📖 2024 - Present | Data Engineer @ <i>Coventry Building Society</i>
+  🤖: 2025 - Present | Data Engineer @ <i>Capgemini</i>
+</p>
+<p align="center">
+  📖 2024 - 2025 | Data Engineer @ <i>Coventry Building Society</i>
 </p>
 <p align="center">
   🛠 2022 | Data Engineer @ <i>OrangeMantra</i>
