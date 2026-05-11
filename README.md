@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there! I'm Fenil Patel</h1>
-<p align="center">🌐 Data Engineer | 🌍 From Mumbai, India 🇮🇳 | 🏡 Living in Coventry, UK 🇬🇧</p>
+<p align="center">🌐 Data Engineer | 🌍 From Mumbai, India 🇮🇳 | 🏡 Living in Manchester, UK 🇬🇧</p>
 
 ---
 
